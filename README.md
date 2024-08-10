@@ -1,5 +1,5 @@
 # Island Generator
-This program is designed to generate a 2D island map based on user inputs for dimensions, drop zone, particles, and other parameters. The generated island is visualized with different terrain types and colors.
+This program is designed to generate a 2D island map based on user inputs for dimensions, drop zones, particles, and other parameters. The generated island is visualized using different terrain types and colors.
 
 ## Description
 The program generates a raw particle map which is then normalized and transformed into a polished island with various terrain types. It utilizes the `termcolor` library by Ihor Kalnytskyi to color the output in the terminal.
@@ -18,7 +18,13 @@ g++ -o island_generator island_generator.cpp
 ```
 ```bash
 <exe> [-s seed]
+```
+
+```bash
 ./island_generator
+```
+
+```bash
 ./island_generator -s 123
 ```
 
