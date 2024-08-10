@@ -36,8 +36,7 @@ g++ -o island_generator island_generator.cpp
 <img src="Screenshots/norm_grid.png" alt="Norm Grid Island" width="1200"/>
 
 **Polished Island**
-<br>
-<img src="Screenshots/example_island.png" alt="Polished Island" width="600" style="transform: rotate(120deg);"/>
+<img src="Screenshots/example_island.png" alt="Polished Island" width="600" style="transform: rotate(180deg);"/>
 
 ## Credits
 This project uses the [termcolor]([https://github.com/termcolor/termcolor](https://github.com/ikalnytskyi/termcolor?tab=License-1-ov-file) library by Ihor Kalnytskyi, which is licensed under the following conditions:
