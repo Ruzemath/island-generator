@@ -30,13 +30,13 @@ g++ -o island_generator island_generator.cpp
 
 ## Example
 **Raw Grid**
-<img src="Screenshots/raw_grid.png" alt="Raw Grid Island" width="1600" height="1000"/>
+<img src="Screenshots/raw_grid.png" alt="Raw Grid Island" width="1600" height="900"/>
 
 **Normalized Grid**
-<img src="Screenshots/norm_grid.png" alt="Norm Grid Island" width="1600"/>
+<img src="Screenshots/norm_grid.png" alt="Norm Grid Island" width="1600" height="900"/>
 
 **Polished Island** <br>
-<img src="Screenshots/example_island.png" alt="Polished Island" width="1000"/>
+<img src="Screenshots/example_island.png" alt="Polished Island" width="900"/>
 
 ## Credits
 This project uses the [termcolor]([https://github.com/termcolor/termcolor](https://github.com/ikalnytskyi/termcolor?tab=License-1-ov-file) library by Ihor Kalnytskyi, which is licensed under the following conditions:
