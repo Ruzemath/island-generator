@@ -30,7 +30,7 @@ g++ -o island_generator island_generator.cpp
 
 ## Example
 **Raw Grid**
-<img src="Screenshots/raw_grid.png" alt="Raw Grid Island" width="1600"/>
+<img src="Screenshots/raw_grid.png" alt="Raw Grid Island" width="1600" height="1000"/>
 
 **Normalized Grid**
 <img src="Screenshots/norm_grid.png" alt="Norm Grid Island" width="1600"/>
