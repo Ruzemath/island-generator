@@ -39,7 +39,7 @@ g++ -o island_generator island_generator.cpp
 <img src="Screenshots/example_island.png" alt="Polished Island" width="1200"/>
 
 ## Credits
-This project uses the [termcolor]([https://github.com/termcolor/termcolor](https://github.com/ikalnytskyi/termcolor?tab=License-1-ov-file) library by Ihor Kalnytskyi, which is licensed under the following conditions:
+This project uses the [termcolor](https://github.com/termcolor/termcolorhttps://github.com/ikalnytskyi/termcolor?tab=License-1-ov-file) library by Ihor Kalnytskyi, which is licensed under the following conditions:
 Copyright (c) 2013, Ihor Kalnytskyi. All rights reserved.
 
 Redistribution and use in source and binary forms of the software as well
