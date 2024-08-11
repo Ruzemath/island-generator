@@ -8,11 +8,10 @@ The program generates a raw particle map which is then normalized and transforme
 - **Particle-based Island Generation**: Drops particles on a grid and simulates their movement based on defined parameters.
 - **Normalization**: Scales particle values to fit within a range **(0-255)** for better visualization.
 - **Island Generation**: Converts the normalized data into a map with distinct terrain types.
-- **Colorized Output**: Uses ANSI escape codes to colorize the terminal output for better readability.
+- **Colorized Output**: Uses ANSI escape codes to colorize the terminal output.
 
 ## Usage
 To run the program, compile and execute the code. You can optionally provide a seed for the random number generation. <br> 
-**Compilation**
 ```bash
 g++ -o island_generator island_generator.cpp
 ```
